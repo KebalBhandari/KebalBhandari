@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **.net, Android Java, MsSql**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently studying **Cybersecurity**
 
 - 📝 I regularly write articles on [https://www.kebalbhandari.com.np/](https://www.kebalbhandari.com.np/)
 
