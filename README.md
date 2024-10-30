@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/kewal_bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kewal_bhandari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kebal-bhandari-2227a2181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kebal-bhandari-2227a2181" height="30" width="40" /></a>
-<a href="https://fb.com/kebal.bhandari.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kebal.bhandari.7" height="30" width="40" /></a>
 <a href="https://instagram.com/kebal_bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kebal_bhandari" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@kebalbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kebalbhandari" height="30" width="40" /></a>
 </p>
