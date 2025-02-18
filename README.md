@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : .net, Android Java, MsSql<br><br>🌱 I’m currently studying : Masters in Cybersecurity<br><br>📝 I regularly write articles on : https://www.kebalbhandari.com.np/ and https://kebalbhandari.blogspot.com/<br><br>📫 How to reach me : kebalbhandari@outlook.com
+🔭 I’m currently working on : .net, Android Java, MsSql, react native<br><br>🌱 I’m currently studying : Masters in Cybersecurity<br><br>📝 I regularly write articles on : https://www.kebalbhandari.com.np/ and https://kebalbhandari.blogspot.com/<br><br>📫 How to reach me : kebalbhandari@outlook.com
 
 
 ## 🌐 Socials:
