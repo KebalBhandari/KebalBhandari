@@ -57,13 +57,8 @@
 
 <p align="center">
   <a href="https://github.com/KebalBhandari">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KebalBhandari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KebalBhandari&theme=tokyonight&hide_border=false" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KebalBhandari&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
 </p>
 
 ---
